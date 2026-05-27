@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "updatedAt": "2026-05-28",
+  "minAppVersion": "1.0",
+  "appDisabled": false,
+  "notice": "",
+  "allowlist": {
+    "domains": [],
+    "urlContains": []
+  },
+  "blocklist": {
+    "domains": [],
+    "urlContains": [],
+    "mimeTypes": []
+  }
+}
