@@ -3,7 +3,7 @@
     "updatedAt":  "2026-05-28",
     "minAppVersion":  "1.0",
     "appDisabled":  false,
-    "notice":  "This is a test notice for ClipBox remote config.",
+    "notice":  "",
     "allowlist":  {
                       "domains":  [
 
